@@ -33,6 +33,7 @@ Una vez que termina retorna un div dónde adentro retornar un div con un h1 para
 <br>
 primero además del proyecto creamos la app "tasks" dónde van a estar nuestros módelos de tareas, cabe aclarar que vamos a estar usando django_rest_framework para las API's
 <br>
+
 Creamos los módelos:
 <br>
 ![image](https://github.com/Joaquin-Contreras/conexion_basica_react-django/assets/86888324/328254bd-c59e-420e-88f2-f40737329018)
