@@ -1,4 +1,4 @@
-![image](https://github.com/Joaquin-Contreras/conexion_basica_react-django/assets/86888324/1aa7d3b4-8233-4831-af35-8dc5e64388ba)# conexion_basica_react-django
+# conexion_basica_react-django
 
 ## Pequeña explicación:
 En este proyecto voy a hacer una demostración básica con explación al detalle sobre una conexión entre un front (React) y un pequeño back en Django, el proycto consiste en un CRUD y más allá de la información lo importante es ver la lógidca detrás de esta conexión.
